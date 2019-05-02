@@ -26,3 +26,7 @@ In April 2019 **Daniel Wainwright** [reported](https://www.bbc.co.uk/news/uk-eng
 * Widget: Is there a council election in my area on 2 May 2019?
 * Stacked bar chart: Age of councillors in England
 * Line chart: Gender of councillors in England, male vs female, 2004-2018
+
+## Related stories
+
+* You can find all election-related stories from the data unit [tagged 'elections' on GitHub](https://github.com/search?q=topic%3Aelections+org%3ABBC-Data-Unit&type=Repositories)
